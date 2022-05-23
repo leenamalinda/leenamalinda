@@ -1,4 +1,4 @@
-# Hi there, I'm Lena  👋 
+# Hi there, I'm Lena  👋 (https://camo.githubusercontent.com/33dfe56555b06f01218393ee5ef353d524134b0a967a179cbc2d69204321b0ae/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78554f77476965776651416d3374634941382f67697068792e676966)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)

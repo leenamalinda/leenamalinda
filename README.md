@@ -19,8 +19,8 @@
 
 ### Connect with me:
 
-
-[![website](https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png)](https://instagram.com/leenaa.md)
+[<img align="left" alt="Visual Studio Code" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png))" style="padding-right:10px;" />](https://instagram.com/leenaa.md)
+<!-- [![website](https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png)](https://instagram.com/leenaa.md) -->
 
 ### Languages and Tools:
 
